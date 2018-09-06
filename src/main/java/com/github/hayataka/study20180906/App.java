@@ -8,6 +8,15 @@ public class App
 {
     public static void main( String[] args )
     {
+    	String a = "aaa";
+    	
         System.out.println( "Hello World!" );
     }
+
+
+    String hello() {
+    	return "b";
+    }
+
+
 }
