@@ -10,11 +10,17 @@ public class App
     {
     	String a = "aaa";
     	
+    	
+    	
+    	///  あああ
+    	
         System.out.println( "Hello World!" );
     }
 
 
     String hello() {
+    	
+    	
     	return "b";
     }
 
